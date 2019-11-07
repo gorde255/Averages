@@ -1,0 +1,7 @@
+C:\Users\gwalkowiak\Desktop\Chapter 8\Averages\bin\Debug\Averages.exe.config
+C:\Users\gwalkowiak\Desktop\Chapter 8\Averages\bin\Debug\Averages.exe
+C:\Users\gwalkowiak\Desktop\Chapter 8\Averages\bin\Debug\Averages.pdb
+C:\Users\gwalkowiak\Desktop\Chapter 8\Averages\obj\Debug\Averages.csproj.CoreCompileInputs.cache
+C:\Users\gwalkowiak\Desktop\Chapter 8\Averages\obj\Debug\Averages.exe
+C:\Users\gwalkowiak\Desktop\Chapter 8\Averages\obj\Debug\Averages.pdb
+C:\Users\gwalkowiak\Desktop\Chapter 8\Averages\obj\Debug\Averages.csprojResolveAssemblyReference.cache
